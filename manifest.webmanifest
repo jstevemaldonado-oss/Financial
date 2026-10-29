@@ -1,0 +1,23 @@
+{
+ "name": "Ruta de valoración",
+ "short_name": "Valoración",
+ "description": "Análisis fundamental y valoración de empresas cotizadas, paso a paso.",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#EDF0F3",
+ "theme_color": "#1A2436",
+ "lang": "es",
+ "icons": [
+  {
+   "src": "apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}

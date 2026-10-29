@@ -1,0 +1,24 @@
+RUTA DE VALORACIÓN · carpeta lista para publicar
+=================================================
+
+Qué hay aquí
+  index.html              la herramienta entera
+  apple-touch-icon.png    icono de la pantalla de inicio (180 px)
+  icon-512.png            icono grande
+  manifest.webmanifest    hace que se abra como una app, sin barra del navegador
+
+Cómo publicarla, desde el iPad o desde un ordenador
+  1. Entra en un alojamiento estático gratuito. Netlify Drop
+     (app.netlify.com/drop) no pide cuenta para la primera publicación;
+     GitHub Pages sí pide cuenta pero no caduca.
+  2. Sube esta carpeta entera, o el .zip sin descomprimir.
+  3. Te darán una dirección https. Ábrela en Safari en el iPad.
+
+Cómo instalarla en el iPad
+  Safari -> botón Compartir -> Añadir a pantalla de inicio.
+  Se abre a pantalla completa, con su icono y sin barra de direcciones.
+
+Importante
+  No cambies el nombre de index.html: es el que se sirve al entrar.
+  La clave de Financial Modeling Prep se guarda en el navegador de cada
+  dispositivo. Tendrás que pegarla una vez en el iPad.
